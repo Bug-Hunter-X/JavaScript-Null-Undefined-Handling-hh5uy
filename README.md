@@ -1,0 +1,3 @@
+# JavaScript Null/Undefined Handling Bug
+This repository demonstrates a common error in JavaScript: insufficient handling of `null` and `undefined` values. The `foo` function performs simple addition, but it needs improved handling to avoid errors or unexpected behavior when `null` or `undefined` are passed as arguments.
+The `bug.js` file shows the buggy code and `bugSolution.js` provides a corrected version.
